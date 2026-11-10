@@ -1,1 +1,1 @@
-This repository contains the codes to reproduce the paper: Jung-Ho Kim, Alex Arenas, Decentralization can hinder frequency synchronization in power grids through multiple phase transitions.
+This repository contains the codes to reproduce the paper: Jung-Ho Kim and Alex Arenas, Decentralization can hinder frequency synchronization in power grids through multiple phase transitions, PRX Energy. (https://doi.org/10.1103/z1y2-17s5)
